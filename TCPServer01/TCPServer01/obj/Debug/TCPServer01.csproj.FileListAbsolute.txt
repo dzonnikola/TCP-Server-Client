@@ -1,0 +1,9 @@
+C:\Users\Thinkpad\source\repos\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe.config
+C:\Users\Thinkpad\source\repos\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\Thinkpad\source\repos\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\Thinkpad\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.Form1.resources
+C:\Users\Thinkpad\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\Thinkpad\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.csproj.GenerateResource.cache
+C:\Users\Thinkpad\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.exe
+C:\Users\Thinkpad\source\repos\TCPServer01\TCPServer01\obj\Debug\TCPServer01.pdb
